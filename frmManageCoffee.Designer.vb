@@ -88,7 +88,7 @@ Partial Class frmManageCoffee
         ' 
         ' frmManageCoffee
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(933, 519)
         Controls.Add(btn_new)
